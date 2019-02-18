@@ -1,0 +1,22 @@
+{
+  "name": "list-of-user-agents",
+  "version": "1.0.0",
+  "description": "List of major web + mobile browser user agent strings. +1 Bonus script to scrape :)",
+  "main": "redis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamimibrahim17/List-of-user-agents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamimibrahim17/List-of-user-agents/issues"
+  },
+  "homepage": "https://github.com/tamimibrahim17/List-of-user-agents#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
